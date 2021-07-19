@@ -1,5 +1,5 @@
 {
-  "name": "fp-ts-string",
+  "name": "fp-ts-string-uniq",
   "version": "1.0.0",
   "description": "fp-ts string uniq",
   "main": "./lib/index.js",
