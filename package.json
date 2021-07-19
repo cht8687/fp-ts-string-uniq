@@ -1,7 +1,7 @@
 {
   "name": "fp-ts-string",
-  "version": "1.1.1",
-  "description": "fp-ts group and groupBy",
+  "version": "1.0.0",
+  "description": "fp-ts string uniq",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "files": [
@@ -14,23 +14,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevemao/fp-ts-string.git"
+    "url": "git+https://github.com/cht8687/fp-ts-string-uniq.git"
   },
   "keywords": [
     "fp-ts",
     "string",
+    "uniq",
     "utils",
-    "extra",
-    "split",
-    "join",
-    "filterEmptyString"
+    "extra"
   ],
-  "author": "Steve Mao",
+  "author": "Robert Chang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stevemao/fp-ts-string/issues"
+    "url": "https://github.com/cht8687/fp-ts-string-uniq/issues"
   },
-  "homepage": "https://github.com/stevemao/fp-ts-string#readme",
+  "homepage": "https://github.com/cht8687/fp-ts-string-uniq#readme",
   "peerDependencies": {
     "fp-ts": "^2.10.5"
   },
